@@ -1,2 +1,2 @@
-# multi_activation
-📄 Official PyTorch and Tensorflow implementations regarding the Multi Activation layer.
+# Fourier-based Multimodal RBMs for Stroke Detection
+📄 Official PyTorch implementation regarding the Fourier-based Multimodal RBMs
